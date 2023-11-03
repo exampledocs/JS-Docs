@@ -1,5 +1,18 @@
 ## SkyAuth JavaScript Example
 
+JavaScript example for the https://skyproject.cc authentication system.
+
+## **Bugs**
+
+If the default example not added to your software isn't functioning how it should, please report a bug here https://skyproject.cc/app/?page=support
+
+
+## **`SkyAuthApp` instance definition**
+
+Visit https://skyproject.cc/app/ and select your application, then click on the **JavaScript** tab
+
+It'll provide you with the code which you should replace with in the `index.js` file.
+
 ##### API 1.0 > Example is using Encryption so Request will be encrypted, and it needs to be decrypted before using.
 
 -----------
